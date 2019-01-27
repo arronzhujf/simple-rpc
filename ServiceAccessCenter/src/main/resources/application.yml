@@ -1,0 +1,5 @@
+server:
+  port: 8081
+  context-path: /access-center
+  tomcat:
+    uri-encoding: utf-8

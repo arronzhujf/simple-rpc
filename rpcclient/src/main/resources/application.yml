@@ -1,0 +1,5 @@
+server:
+  port: 8083
+  context-path: /rpc-client
+  tomcat:
+    uri-encoding: utf-8
